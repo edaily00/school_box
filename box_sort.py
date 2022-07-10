@@ -1,3 +1,7 @@
+#Author: Eric Daily
+#Github username: edaily00
+#Date: 7/9/2022
+#This program has boxes and can sort them by volume
 
 #Box class that holds length, width, height
 class Box:
